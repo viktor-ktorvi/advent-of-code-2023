@@ -70,7 +70,6 @@ def main():
 
             col_ptr = number_end + 1
 
-    print(part_numbers)
     print(f"The sum of part numbers is {sum(part_numbers)}")
 
 
